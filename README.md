@@ -7,4 +7,4 @@
 
 - Details: To ensure the uniqueness of _state value function_, the following is used to compute $Q$ instead of the naive $Q=V+A$.
 
-  ![eq](assets/image.png)
+  ![eq](https://github.com/Da1sypetals/DQN-trial/blob/master/assets/image.png)
