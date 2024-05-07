@@ -7,4 +7,4 @@
 
 - Details: To ensure the uniqueness of _state value function_, the following is used to compute $Q$ instead of the naive $Q=V+A$.
 
-  ![eq](image.png)
+  ![eq](./image.png)
