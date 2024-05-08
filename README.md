@@ -8,3 +8,7 @@
 - Details: To ensure the uniqueness of _state value function_, the following is used to compute $Q$ instead of the naive $Q=V+A$.
 
   ![eq](https://github.com/Da1sypetals/DQN-trial/blob/master/assets/image.png)
+
+- Update: Utilizes KAN for the networks.
+  - implementation: https://github.com/Blealtan/efficient-kan.git
+  - This converges in 2 turns.
